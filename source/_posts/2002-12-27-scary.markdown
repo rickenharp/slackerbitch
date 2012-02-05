@@ -1,0 +1,14 @@
+---
+date: '2002-12-27 15:08:30'
+layout: post
+slug: scary
+status: publish
+comments: true
+
+title: Scary
+wordpress_id: '70'
+categories:
+- Random
+---
+
+[Raelian group claims birth of first human clone](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/1040959662794_13///?hub=TopStories)

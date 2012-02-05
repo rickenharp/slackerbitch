@@ -1,0 +1,14 @@
+---
+date: '2003-06-17 18:46:37'
+layout: post
+slug: facelift
+status: publish
+comments: true
+
+title: Facelift
+wordpress_id: '109'
+categories:
+- Weblogs
+---
+
+For the moment, I went back to the default MT design, because, let's face it, it looks much better than the old white design. And it's a good starting point for yet another redesign.

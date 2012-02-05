@@ -1,0 +1,16 @@
+---
+date: '2002-10-09 07:05:52'
+layout: post
+slug: amazing
+status: publish
+comments: true
+
+title: Amazing
+wordpress_id: '30'
+categories:
+- Random
+---
+
+When I checked my web stats this morning, there were 10 hits on my site for "Redhat 8.0 Review" and 2 hits for "Redhat 8.0" coming from Google.
+Then I wanted to check, what ranking I had. Turns out, for "Redhat 8.0 Review", I am number 2 (and 3). I have no clue how that could have happened, there are no external links to my site, that I know of.
+But it's nice to be at the top for once. :-)

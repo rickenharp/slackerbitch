@@ -1,0 +1,14 @@
+---
+date: '2003-03-15 19:15:39'
+layout: post
+slug: facelift
+status: publish
+comments: true
+
+title: Facelift
+wordpress_id: '80'
+categories:
+- Random
+---
+
+After some frobbing around with CSS, slackerbit.ch gets a new layout. The paint might still be wet in places. Step carefully.

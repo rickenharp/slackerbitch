@@ -1,0 +1,14 @@
+---
+date: '2002-12-31 23:55:29'
+layout: post
+slug: it-worked
+status: publish
+comments: true
+
+title: It worked
+wordpress_id: '73'
+categories:
+- Coding
+---
+
+After some hair-pulling, I now have 4.3.0 up and running, and phpMyAdmin seems satisfied again. But now it's almost midnight, and I don't want to code anymore, so there :-)

@@ -1,0 +1,15 @@
+---
+date: '2002-12-02 20:05:55'
+layout: post
+slug: me-so-dumb
+status: publish
+comments: true
+
+title: Me so dumb
+wordpress_id: '56'
+categories:
+- Random
+---
+
+Finally got my server up and running again. And I know why it was all b0rked. When they switched the IP adresses, I configured it wrong. Instead of putting the old IP on the alias interface eth0:1, I put it on eth0:0, which is the real interface, which confused the server quite a bit. And when I wanted to shut the old interface off, I took out the real one with it. Duh!
+But now all is fixed thanks to first class phone support from the fine folks at [Siemund Online](http://www.siemund-online.de)

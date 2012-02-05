@@ -1,0 +1,42 @@
+---
+date: '2004-01-17 12:06:39'
+layout: post
+slug: moving-on
+status: publish
+comments: true
+
+title: Moving on
+wordpress_id: '113'
+categories:
+- Random
+---
+
+Wow, this blog has been deserted for quite a while...
+Anyway, as a followup to my last entry, I am no longer jobless. Since the beginning of the year, I am now a freelance web developer.
+This move also calls for a server upgrade, since my old (or rather, current) server has not been the most reliable. So I'm also going to switch hosting companies. I found one that offers quite beefy servers, reasonable free traffic and a wide range of distros to choose from.
+Unfortunately, that is kind of a problem. My server distro of choice so far was Red Hat 7.3: stable, reliable, and I could get [qmail](http://www.qmail.org/) and [bgware](http://untroubled.org/) RPMs at [Bruce Guenter's site](http://untroubled.org/). But Red Hat 7.3 has been EOLd at the end of December 2003, so there will be no more official security updates from Red Hat for that distro. And the newest release, 9, will be EOLd at the end of April this year.
+Now Red Hat only offers the free Fedora linux (bleeding edge, new release every 6 month, 12 month lifetime) and the Enterprise Linux line (5 years lifetime). Unfortunately, the Enterprise ES version for small and mid-size servers costs $349 a year, which I just cannot afford at the moment.
+I tried out Debian on my test server at home, because that would be the next logical step, but, alas, I got _used_ to the Red Hat way. So, here's the plan:
+
+
+
+
+
+  * Get Red Hat 9 on the new server
+
+
+  * switch from [qmail](http://www.qmail.org/) to [postfix](http://www.postfix.org/)
+
+
+  * hope that by 2004-04-30, [Fedora Legacy is up to speed](http://www.fedoralegacy.org/)
+
+
+  * and if Fedora Legacy is not up to speed, find a vendor like [Progeny](http://www.progeny.com) for commercial support
+
+
+
+The qmail-to-postfix switch is almost done on my testserver, I have been able replicate almost all functionality of the old qmail/vpopmail setup, and postfix even offers some more stuff, like TLS for SMTP. With a MySQL backend, I now have POP3, IMAP and SMTP-AUTH working, all that remains to be done is to write a few perl scripts for easy domain and account management and a qmailadmin-like web frontend.
+
+Since getting everything to work smoothly together required getting the info from a few websites, I'm going to document it, so it will be all in one place.
+  *[TLS]: Transport Layer Security
+  *[SMTP]: Simple Mail Transfer Protocol

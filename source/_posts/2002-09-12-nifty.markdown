@@ -1,0 +1,18 @@
+---
+date: '2002-09-12 21:40:51'
+layout: post
+slug: nifty
+status: publish
+comments: true
+
+title: Nifty!
+wordpress_id: '10'
+---
+
+
+Checking my logfiles, I came across a weird user agent, "obidos-bot". I know that obidos is something Amazon uses, but I was curious. A google search later, I found the answer:  
+
+[onfocus.com : Weblog BookWatch](http://www.onfocus.com/bookwatch/), a website that checks recently updated blogs for links to books and generating a list of the most mentioned books.  
+
+Now that's a neat idea.
+

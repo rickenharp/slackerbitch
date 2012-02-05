@@ -1,0 +1,15 @@
+---
+date: '2003-03-23 20:39:42'
+layout: post
+slug: huh
+status: publish
+comments: true
+
+title: Huh?
+wordpress_id: '83'
+categories:
+- Random
+---
+
+Browsing through my referrer logs, I came across [this <del>french</del> swiss site about blogging](http://www.slash.com.ch/no68/68-newsmain.htm), which has listed me at the bottom, with the comment "anti weblogger !"
+I mean, I am anti pretty much anything at one time or another, but so far, I have not been anti weblogging. Or maybe anti means "cool frood" in french...

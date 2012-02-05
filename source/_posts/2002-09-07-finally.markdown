@@ -1,0 +1,16 @@
+---
+date: '2002-09-07 21:32:04'
+layout: post
+slug: finally
+status: publish
+comments: true
+
+title: Finally
+wordpress_id: '4'
+---
+
+After showing nothing but a boring placeholder page for, well, ever, I finally decided  what to do with this domain. Especially after the hoopla I've been through when the domain was almost deleted because my registrar went broke and didn't pay the bills. The new company, that took over all the old assets, told me, that the swiss NIC is very difficult to deal with, and the best way would be to let the domain expire and re-register it.
+Not really believing that, I fired up a mail to their helpdesk, telling them that I want that domain back, that I would pay all due bills and that I want to be listed as the person who gets the bills. That was around 9pm. At 9am the next morning, I got a mail saying, "No problem, pay us the 35 Sfr, and all is cool". It was more verbose and businesslike, but that's what it boils down to.
+They even have a webform, where you can pay by credit card, which I did because it's the fastet way. And the next thing I did was change the bill recipient to be me. So now this domain will be mine at least till June 2003.
+But, to make a long story short, I decided to install [MovableType](www.movabletype.org) as my blogging engine, because it looked really neat, is written in Perl and was a breeze to set up.
+And if it's good enough for [Wil Wheaton](http://www.wilwheaton.net), it's good enough for me :-)

@@ -1,0 +1,15 @@
+---
+date: '2006-10-11 18:36:55'
+layout: post
+slug: rebirth
+status: publish
+comments: true
+title: Rebirth
+wordpress_id: '115'
+---
+
+OK, after a rather long hiatus (over 2 years), I decided to reactivate this blog and get rid of my last MT-powered blog.
+
+Because I was curious, I decided to give Wordpress a spin.
+
+I broke all the old URLs (bad Alex, no cookie), but at least the old content came over to the new incarnation.

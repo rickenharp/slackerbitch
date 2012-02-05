@@ -1,0 +1,16 @@
+---
+date: '2002-12-17 16:55:50'
+layout: post
+slug: i-got-mail
+status: publish
+comments: true
+
+title: I got mail
+wordpress_id: '68'
+categories:
+- Random
+---
+
+Just picked up a package at the post office on my way home. Finally, [the book](http://www.somewordsspoken.com) has arrived!
+It is even autographed by the two [amazing](http://strangeangel.net) [authors](http://www.ihaveasecret.com), who I had the great fortune to meet in person last year during my visit to Toronto.
+I really have to get back there ASAP. I miss those crazy canadians, eh! ;-)
