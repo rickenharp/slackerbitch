@@ -6,7 +6,7 @@ require "stringex"
 # Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
 ssh_user       = "alex@slackerbit.ch"
 ssh_port       = "2288"
-document_root  = "/srv/http/slackerbit.ch/htdocs_octopress"
+document_root  = "/srv/http/slackerbit.ch/htdocs"
 rsync_delete   = true
 rsync_args     = ""  # Any extra arguments to pass to rsync
 deploy_default = "rsync"
