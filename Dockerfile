@@ -1,3 +1,2 @@
-FROM kyma/docker-nginx
-ADD public/ /var/www
-CMD 'nginx'
+FROM nginx:alpine
+COPY public /usr/share/nginx/html
